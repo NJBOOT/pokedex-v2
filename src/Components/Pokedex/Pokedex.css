@@ -1,0 +1,31 @@
+.Pokedex {
+  margin: 50px auto;
+}
+
+.Poxedex-cards {
+  margin: auto;
+  width: 80%;
+  display: flex;
+}
+
+.Poxedex-header {
+  width: 78%;
+  border-radius: 10px;
+  margin: auto;
+  display: flex;
+  justify-content: center;
+}
+
+.winner {
+  background-color: green;
+  color: white;
+}
+
+.loser {
+  background-color: red;
+  color: white;
+}
+
+.Poxedex-header h1 {
+  margin: auto 20px;
+}

@@ -1,0 +1,19 @@
+.Pokecard {
+  border: 1px solid rgb(69, 69, 69);
+  box-shadow: 2px 3px 10px #686d76;
+  border-radius: 5px;
+  background-color: #cee0dc;
+  color: #a5243d;
+  text-align: center;
+  margin: 10px;
+  padding: 15px;
+  width: 250px;
+  height: 250px;
+}
+.Pokecard img {
+  max-width: 50%;
+}
+
+.Pokecard:hover img {
+  transform: scale(1.5);
+}
