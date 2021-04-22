@@ -9,6 +9,7 @@
 }
 
 .Poxedex-header {
+  cursor: default;
   width: 78%;
   border-radius: 10px;
   margin: auto;
